@@ -49,6 +49,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>devops-integration-demo</finalName>
     </build>
 
 </project>
